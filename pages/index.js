@@ -26,9 +26,12 @@ export default function Home({ posts }) {
 
         <title>Dev Blog</title>
 
-        <link rel="icon" href="/graphcms-icon.png" />
-        <link rel="canonical" href="#" />
-        <link rel="alternate" href="#" hreflang="en-us" />
+        <link rel="icon" href="/vercel.svg" />
+        <link
+          rel="canonical"
+          href="https://ysnweb.net/2019/12/web-monetisation/google-adsense-how-much-income/"
+        />
+        <link rel="alternate" href="http://example.com" hreflang="en-us" />
       </Head>
 
       <div className="posts">
