@@ -6,11 +6,11 @@ export default function Post({ post }) {
       <picture>
         <source
           media="(max-width: 799px)"
-          srcset={post.frontmatter.cover_image}
+          srcSet={post.frontmatter.cover_image}
         />
         <source
           media="(min-width: 800px)"
-          srcset={post.frontmatter.cover_image}
+          srcSet={post.frontmatter.cover_image}
         />
         <img
           src={post.frontmatter.cover_image}

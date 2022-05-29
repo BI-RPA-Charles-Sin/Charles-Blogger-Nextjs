@@ -18,8 +18,8 @@ export default function PostPage({
         <h1 className="post-title">{title}</h1>
         <div className="post-date">Posted on {date}</div>
         <picture>
-          <source media="(max-width: 799px)" srcset={cover_image} />
-          <source media="(min-width: 800px)" srcset={cover_image} />
+          <source media="(max-width: 799px)" srcSet={cover_image} />
+          <source media="(min-width: 800px)" srcSet={cover_image} />
           <img
             src={cover_image}
             alt={cover_image}
