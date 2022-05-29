@@ -17,12 +17,16 @@ export default function PostPage({
       <div className="card card-page">
         <h1 className="post-title">{title}</h1>
         <div className="post-date">Posted on {date}</div>
-        <img
-          src={cover_image}
-          alt={cover_image}
-          title={cover_image}
-          loading="lazy"
-        />
+        <picture>
+          <source media="(max-width: 799px)" srcset={cover_image} />
+          <source media="(min-width: 800px)" srcset={cover_image} />
+          <img
+            src={cover_image}
+            alt={cover_image}
+            title={cover_image}
+            loading="eager"
+          />
+        </picture>
         <div className="post-body">
           <div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>
         </div>
