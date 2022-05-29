@@ -9,7 +9,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content="charles Blog w/ markdown" />
         <meta name="robots" content="index, follow" />
@@ -31,7 +31,7 @@ export default function Home({ posts }) {
           rel="canonical"
           href="https://ysnweb.net/2019/12/web-monetisation/google-adsense-how-much-income/"
         />
-        <link rel="alternate" href="http://example.com" hreflang="en-us" />
+        <link rel="alternate" href="http://example.com" hrefLang="en-us" />
       </Head>
 
       <div className="posts">
