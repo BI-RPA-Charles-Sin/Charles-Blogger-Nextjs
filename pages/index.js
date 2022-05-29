@@ -22,6 +22,7 @@ export default function Home({ posts }) {
           name="keywords"
           content="Unit Tests,CharlesSinPersonalBlogger,React, PHP 8, Python, Django, Tailwind, Bootstrap, JavaScript Performance"
         ></meta>
+        <meta name="google-site-verification" content="L3UxEUxOpbpZgzYHAyZGHNnP1xJcvT6IIkQjXssUU8U" />
 
         <title>Dev Blog</title>
 
