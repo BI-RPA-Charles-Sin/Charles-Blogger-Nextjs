@@ -29,9 +29,13 @@ export default function Home({ posts }) {
         <link rel="icon" href="/vercel.svg" />
         <link
           rel="canonical"
-          href="https://ysnweb.net/2019/12/web-monetisation/google-adsense-how-much-income/"
+          href="https://charles-blogger-nextjs.vercel.app/"
         />
-        <link rel="alternate" href="http://example.com" hrefLang="en-us" />
+        <link
+          rel="alternate"
+          href="https://charles-blogger-nextjs.vercel.app/"
+          hrefLang="en-us"
+        />
       </Head>
 
       <div className="posts">
