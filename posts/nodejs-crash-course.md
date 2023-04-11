@@ -1,11 +1,9 @@
 ---
 title: 'Node.js 速成班'
 date: '四月 11, 2023'
-excerpt: 'Django 是一个非常强大的高级 Python 框架，用于构建 Web 应用程序'
+excerpt: 'Node.js 是一种流行的 JavaScript 运行时环境，它可以让您使用 JavaScript 编写后端应用程序。本文将介绍 Node.js 的基础知识，以及如何使用 Node.js 构建后端应用程序'
 cover_image: '/images/posts/img3.jpg'
 ---
-
-Node.js 是一种流行的 JavaScript 运行时环境，它可以让您使用 JavaScript 编写后端应用程序。本文将介绍 Node.js 的基础知识，以及如何使用 Node.js 构建后端应用程序。
 
 ## 1. 什么是 Node.js？
 Node.js 是一个开源的 JavaScript 运行时环境，它是基于 Chrome V8 JavaScript 引擎构建的。Node.js 可以让您使用 JavaScript 编写后端应用程序。Node.js 还具有一些内置的模块，如文件系统和网络模块等。
