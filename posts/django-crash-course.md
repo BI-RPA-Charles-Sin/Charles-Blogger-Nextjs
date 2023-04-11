@@ -1,57 +1,29 @@
 ---
-title: 'Django Crash Course'
+title: 'Django 速成班'
 date: 'March 5, 2021'
-excerpt: 'Django is a very powerful, high level Python framework for building web applications'
+excerpt: 'Django 是一个非常强大的高级 Python 框架，用于构建 Web 应用程序'
 cover_image: '/images/posts/img3.jpg'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+## 1. 什么是 Django？
+Django 是一个开源的 Web 框架，它是用 Python 编写的。Django 可以帮助开发人员快速构建高质量的 Web 应用程序。Django 包含了许多有用的功能，如 ORM（对象关系映射），模板引擎和表单处理等。
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+## 2. Django 的安装和配置
+要开始使用 Django，您需要先安装它。您可以使用 pip 工具轻松安装 Django。安装完成后，您需要创建一个新的 Django 项目。在创建项目之前，您需要先配置数据库。Django 支持多种数据库，如 SQLite、MySQL 和 PostgreSQL 等。
 
-## Turpius Aegides membris colat volentes fallere
+## 3. Django 的核心组件
+Django 由许多核心组件组成，这些组件可以帮助您构建 Web 应用程序。其中最重要的组件包括：
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+1. URLconf：URLconf 是一种 URL 映射机制，它可以将 URL 映射到视图函数或类上。
+2. 视图函数：视图函数是 Django 中处理请求的主要组件。视图函数接收请求并返回响应。
+3. 模板引擎：Django 的模板引擎可以帮助您轻松地创建 HTML 模板。
+4. 表单处理：Django 的表单处理组件可以帮助您轻松地处理表单数据。
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
+## 4. Django 的应用程序
+Django 应用程序是一种可以独立使用的可重用组件。Django 应用程序可以包含视图函数、模板和静态文件等。您可以使用 Django 应用程序来组织您的代码并使其易于重用。
 
-## O contra diu
+## 5. Django 的部署
+当您完成了 Django 应用程序的开发时，您需要将其部署到生产环境中。Django 支持多种部署方式，如使用 WSGI、Docker 或云托管等。
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
-
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
-
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
-
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+## 6. 总结
+Django 是一种强大的 Python Web 框架，它可以帮助您快速构建高质量的 Web 应用程序。在本文中，我们介绍了 Django 的基础知识，包括安装和配置、核心组件、应用程序和部署等。如果您想学习如何使用 Django 构建 Web 应用程序，这篇文章就是一个很好的起点。
